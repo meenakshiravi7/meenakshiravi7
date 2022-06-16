@@ -1,3 +1,12 @@
+👋 Hi, I’m Meenakshi R
+
+👀 I’m interested in learning new things
+
+🌱 I’m currently learning Data Science
+
+📫 How to reach me meenakshi.ravikumar@outlook.com
+
+
 🔗 **EDUCATION**:
 
 - Data Science Bootcamp, Jovian
@@ -33,16 +42,6 @@ E-commerce Product Classification using Machine Learning
  - Cleaned Otto Group Product Classification dataset from Kaggle having 93 features & 200k+ products
  - Trained and tuned different ML models such as Logistic Regression & GBMs using scikit-learn library
  - Performed feature engineering that helped in reaching 98% accuracy & top 18% on Kaggle leaderboard
-
-
-
-👋 Hi, I’m Meenakshi R
-
-👀 I’m interested in learning new things
-
-🌱 I’m currently learning Data Science
-
-📫 How to reach me meenakshi.ravikumar@outlook.com
 
 
 <!---
