@@ -1,10 +1,8 @@
-👋 Hi, I’m Meenakshi R
+👋 *****Hi, I’m Meenakshi R*****
 
 👀 I’m interested in learning new things
 
 🌱 I’m currently learning Data Science
-
-📫 How to reach me meenakshi.ravikumar@outlook.com
 
 🔗 **EDUCATION**:
 
@@ -50,6 +48,8 @@ E-commerce Product Classification using Machine Learning
 - 👨‍💻 All of my projects are available at [https://jovian.ai/meenakshi-ravikumar](https://jovian.ai/meenakshi-ravikumar)
 
 - 📝 I regularly write articles on [https://medium.com/@meenuravi786](https://medium.com/@meenuravi786)
+
+- 📫 How to reach me meenakshi.ravikumar@outlook.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
