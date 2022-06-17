@@ -18,7 +18,7 @@ Aug 2021 - Present
   Courses: Advanced Digital Image Processing, Real Time Embedded Systems, Software Defined Radios, etc.
 
 - GKM Institute of Technology, Chennai, India                                                                                                2012– 2016 
-  Bachelor’s Degree in Engineering, Electronics and Communication (GPA: 7.23/10)
+  Bachelor’s Degree in Engineering, Electronics and Communication (GPA: 7.3/10)
 
   Courses : Digital Signal Processing, VLSI Design, Wireless Communication, Satellite Communication etc.
 
